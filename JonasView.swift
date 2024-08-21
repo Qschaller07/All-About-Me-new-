@@ -17,9 +17,17 @@ struct JonasView: View {
                 Text("I am a Junior")
                     .font(.title)
                     .padding()
+                Text("Fun Fact: I am Left Handed")
+                    .padding()
             }
-            .padding()
+            .padding(50)
+           
+            
             Divider()
+            Spacer()
+            VStack {
+                
+            }
         }
     }
 }
