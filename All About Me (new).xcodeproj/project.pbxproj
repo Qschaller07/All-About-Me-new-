@@ -11,6 +11,7 @@
 		ABB1BF742C762A8900132E52 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB1BF732C762A8900132E52 /* ContentView.swift */; };
 		ABB1BF762C762A8B00132E52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABB1BF752C762A8B00132E52 /* Assets.xcassets */; };
 		ABB1BF792C762A8B00132E52 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABB1BF782C762A8B00132E52 /* Preview Assets.xcassets */; };
+		EEC2ECB72C762C48004B7694 /* JonasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC2ECB62C762C48004B7694 /* JonasView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		ABB1BF732C762A8900132E52 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ABB1BF752C762A8B00132E52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABB1BF782C762A8B00132E52 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EEC2ECB62C762C48004B7694 /* JonasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = JonasView.swift; path = ../JonasView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				ABB1BF712C762A8900132E52 /* All_About_Me__new_App.swift */,
+				EEC2ECB62C762C48004B7694 /* JonasView.swift */,
 				ABB1BF732C762A8900132E52 /* ContentView.swift */,
 				ABB1BF752C762A8B00132E52 /* Assets.xcassets */,
 				ABB1BF772C762A8B00132E52 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				ABB1BF742C762A8900132E52 /* ContentView.swift in Sources */,
 				ABB1BF722C762A8900132E52 /* All_About_Me__new_App.swift in Sources */,
+				EEC2ECB72C762C48004B7694 /* JonasView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
