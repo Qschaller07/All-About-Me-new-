@@ -9,7 +9,18 @@ import SwiftUI
 
 struct JonasView: View {
     var body: some View {
-        Text("Hello, World!")
+        VStack{
+            VStack{
+                Text("Jonas Gregory")
+                    .font(.largeTitle)
+                    .padding()
+                Text("I am a Junior")
+                    .font(.title)
+                    .padding()
+            }
+            .padding()
+            Divider()
+        }
     }
 }
 
