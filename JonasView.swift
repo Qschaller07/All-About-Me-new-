@@ -24,9 +24,10 @@ struct JonasView: View {
            
             
             Divider()
-            Spacer()
             VStack {
-                
+                Text("Two Truths and a Lie")
+                    .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
+                    .padding()
             }
         }
     }
