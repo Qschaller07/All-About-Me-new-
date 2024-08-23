@@ -20,6 +20,7 @@ struct ContentView: View {
                         Text("Jonas")
                             .foregroundStyle(.black)
                             .frame(width: 200, height: 100)
+                            .font(.title)
                             .background(RoundedRectangle(cornerRadius: 25).fill(Color.red).shadow(radius: 3))
                     }
                 }
